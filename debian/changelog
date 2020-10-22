@@ -1,3 +1,9 @@
+virtualbox (6.1.14-dfsg-4pop0) focal; urgency=medium
+
+  * Pop!_OS patches
+
+ -- Jeremy Soller <jeremy@system76.com>  Wed, 21 Oct 2020 21:38:37 -0600
+
 virtualbox (6.1.14-dfsg-4) unstable; urgency=medium
 
   [ Lorenzo Puliti <plorenzo@disroot.org> ]
